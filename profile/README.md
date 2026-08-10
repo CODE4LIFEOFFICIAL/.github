@@ -6,10 +6,12 @@
 
 # CODE4LIFE ® Company
 
+### AI & Software Development
+
 <br>
 
 <img src="https://img.shields.io/badge/IT%20Services-1E1E1E?style=for-the-badge" alt="IT Services">
-<img src="https://img.shields.io/badge/AI%20Education-1E1E1E?style=for-the-badge" alt="AI Education">
+<img src="https://img.shields.io/badge/IT%20Consulting-1E1E1E?style=for-the-badge" alt="IT Consulting">
 <img src="https://img.shields.io/badge/AI%20Engineering-1E1E1E?style=for-the-badge" alt="AI Engineering">
 <img src="https://img.shields.io/badge/Software%20Development-1E1E1E?style=for-the-badge" alt="Software Development">
 
@@ -17,13 +19,30 @@
 
 <br>
 
-## Học lập trình AI qua dự án thật, từ mô hình đến sản phẩm production
+## Xây dựng sản phẩm AI thật, từ mô hình đến production
 
-**CODE4LIFE ®** là công ty đào tạo lập trình và phát triển phần mềm tại Việt Nam, chuyên sâu về **Trí tuệ nhân tạo (AI)**, **Học máy (Machine Learning)** và **Kỹ thuật phần mềm (Software Engineering)**.
+**CODE4LIFE ®** là công ty phát triển phần mềm và giải pháp AI tại Việt Nam, chuyên sâu về **Trí tuệ nhân tạo (AI)**, **Học máy (Machine Learning)** và **Kỹ thuật phần mềm (Software Engineering)**.
 
-Chúng tôi tin rằng lập trình chỉ thực sự có giá trị khi gắn liền với dự án thật, khách hàng thật và bài toán thật. Đó là triết lý xuyên suốt trong cách CODE4LIFE ® đào tạo học viên và xây dựng sản phẩm.
+Chúng tôi tập trung triển khai dự án thật cho khách hàng thật, giải quyết bài toán thật. Từ nghiên cứu mô hình, xây dựng hệ thống đến vận hành ở quy mô production — đó là năng lực cốt lõi mà CODE4LIFE ® mang đến cho đối tác và cộng đồng.
 
-CODE4LIFE ® trực tiếp nghiên cứu và phát triển các mô hình AI, giải quyết những bài toán ứng dụng cụ thể cho cộng đồng và đối tác doanh nghiệp. Kinh nghiệm thực chiến đó được đưa quay trở lại chương trình đào tạo, giúp học viên tiếp cận AI không qua lý thuyết suông mà qua sản phẩm đang chạy thật.
+CODE4LIFE ® trực tiếp nghiên cứu và phát triển các mô hình AI, xây dựng sản phẩm phần mềm và triển khai giải pháp cho đối tác doanh nghiệp cũng như cộng đồng mã nguồn mở. Toàn bộ mô hình và dự án được chúng tôi công khai chia sẻ, đóng góp trở lại cho hệ sinh thái công nghệ.
+
+<br>
+
+## Các dự án phần mềm tập trung vào xu hướng công nghệ
+
+CODE4LIFE ® trực tiếp triển khai các dự án phần mềm bám sát những domain đang được thị trường quan tâm nhất hiện nay:
+
+| Domain | Mô tả |
+|:---|:---|
+| **AI Agent & Automation** | Xây dựng hệ thống agent tự động hoá quy trình nghiệp vụ, tích hợp công cụ và ra quyết định đa bước |
+| **LLM Application & RAG** | Phát triển ứng dụng dựa trên mô hình ngôn ngữ lớn, hệ thống truy xuất tri thức (RAG) cho doanh nghiệp |
+| **Computer Vision** | Nhận diện, phân tích hình ảnh và video ứng dụng trong sản xuất, bán lẻ, y tế |
+| **AI Platform Engineering** | Xây dựng hạ tầng triển khai mô hình AI ở quy mô production: MLOps, fine-tuning, tối ưu inference |
+| **Data Engineering & Analytics** | Xử lý, chuẩn hoá dữ liệu lớn phục vụ huấn luyện mô hình và ra quyết định dựa trên dữ liệu |
+| **Full-stack & Cloud Software** | Phát triển sản phẩm phần mềm hoàn chỉnh, triển khai trên nền tảng đám mây, tối ưu khả năng mở rộng |
+
+Mỗi dự án đều gắn với một bài toán thực tế từ đối tác hoặc cộng đồng, giúp đội ngũ kỹ sư của CODE4LIFE ® luôn cập nhật công nghệ mới nhất và tích luỹ kinh nghiệm triển khai thực chiến.
 
 <br>
 
@@ -34,12 +53,12 @@ CODE4LIFE ® trực tiếp nghiên cứu và phát triển các mô hình AI, gi
 | Nền tảng | Nội dung | Quy mô |
 |:---|:---|:---:|
 | [Hugging Face](https://huggingface.co/CODE4LIFEOFFICIAL) | Mô hình AI và bộ dữ liệu do CODE4LIFE ® phát triển | — |
-| [Facebook Page](https://www.facebook.com/CODE4LIFEOFFICIAL) | Cập nhật chính thức và thông báo mới nhất | 10K+ |
-| [Facebook Community](https://www.facebook.com/groups/code4life.official) | Cộng đồng thảo luận dành cho người học lập trình & AI, đời sống và thị trường IT | 10K+ |
+| [Facebook Page](https://www.facebook.com/CODE4LIFEOFFICIAL) | Cập nhật chính thức và thông báo mới nhất | 7K+ |
+| [Facebook Community](https://www.facebook.com/groups/code4life.official) | Cộng đồng thảo luận về lập trình & AI, đời sống và thị trường IT | 10K+ |
 | [TikTok](https://www.tiktok.com/@taovietduc.code4life) | Nội dung ngắn về lập trình và AI | 17K+ |
 | [Threads](https://www.threads.com/@taovietduc.code4life) | Hậu trường và cập nhật nhanh | 12.2K+ |
 | [LinkedIn](https://www.linkedin.com/company/code4lifeofficial) | Trang công ty và cơ hội nghề nghiệp | — |
-| [YouTube](https://www.youtube.com/@taovietduc.code4life) | Video hướng dẫn chuyên sâu và walkthrough dự án thực tế | — |
+| [YouTube](https://www.youtube.com/@taovietduc.code4life) | Video walkthrough dự án và giải pháp thực tế | — |
 | [Instagram](https://www.instagram.com/taovietduc.code4life) | Hình ảnh cập nhật và khoảnh khắc nổi bật | — |
 
 </div>
