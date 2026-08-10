@@ -4,9 +4,7 @@
   <img src="https://github.com/CODE4LIFEOFFICIAL/.github/blob/main/profile/LOGO_1.png" width="360" height="260">
 </a>
 
-# CODE4LIFE ®
-
-### AI Education & Software Development Company
+# CODE4LIFE ® Company
 
 <br>
 
@@ -36,8 +34,8 @@ CODE4LIFE ® trực tiếp nghiên cứu và phát triển các mô hình AI, gi
 | Nền tảng | Nội dung | Quy mô |
 |:---|:---|:---:|
 | [Hugging Face](https://huggingface.co/CODE4LIFEOFFICIAL) | Mô hình AI và bộ dữ liệu do CODE4LIFE ® phát triển | — |
-| [Facebook Page](https://www.facebook.com/CODE4LIFEOFFICIAL) | Cập nhật chính thức và thông báo mới nhất | 7K+ |
-| [Facebook Community](https://www.facebook.com/groups/code4life.official) | Cộng đồng thảo luận dành cho người học lập trình & AI | 8.2K+ |
+| [Facebook Page](https://www.facebook.com/CODE4LIFEOFFICIAL) | Cập nhật chính thức và thông báo mới nhất | 10K+ |
+| [Facebook Community](https://www.facebook.com/groups/code4life.official) | Cộng đồng thảo luận dành cho người học lập trình & AI, đời sống và thị trường IT | 10K+ |
 | [TikTok](https://www.tiktok.com/@taovietduc.code4life) | Nội dung ngắn về lập trình và AI | 17K+ |
 | [Threads](https://www.threads.com/@taovietduc.code4life) | Hậu trường và cập nhật nhanh | 12.2K+ |
 | [LinkedIn](https://www.linkedin.com/company/code4lifeofficial) | Trang công ty và cơ hội nghề nghiệp | — |
