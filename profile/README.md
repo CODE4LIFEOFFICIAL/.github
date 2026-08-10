@@ -58,7 +58,7 @@ Mỗi dự án đều gắn với một bài toán thực tế từ đối tác 
 | [TikTok](https://www.tiktok.com/@taovietduc.code4life) | Nội dung ngắn về lập trình và AI | 17K+ |
 | [Threads](https://www.threads.com/@taovietduc.code4life) | Hậu trường và cập nhật nhanh | 12.2K+ |
 | [LinkedIn](https://www.linkedin.com/company/code4lifeofficial) | Trang công ty và cơ hội nghề nghiệp | — |
-| [YouTube](https://www.youtube.com/@taovietduc.code4life) | Video walkthrough dự án và giải pháp thực tế | — |
+| [YouTube](https://www.youtube.com/@CODE4LIFEOFFICIAL) | Video walkthrough dự án và giải pháp thực tế | — |
 | [Instagram](https://www.instagram.com/taovietduc.code4life) | Hình ảnh cập nhật và khoảnh khắc nổi bật | — |
 
 </div>
