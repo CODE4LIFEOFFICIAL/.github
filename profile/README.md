@@ -23,7 +23,7 @@
 
 **CODE4LIFE ®** là công ty phát triển phần mềm và giải pháp AI tại Việt Nam, chuyên sâu về **Trí tuệ nhân tạo (AI)**, **Học máy (Machine Learning)** và **Kỹ thuật phần mềm (Software Engineering)**.
 
-Chúng tôi tập trung triển khai dự án thật cho khách hàng thật, giải quyết bài toán thật. Từ nghiên cứu mô hình, xây dựng hệ thống đến vận hành ở quy mô production — đó là năng lực cốt lõi mà CODE4LIFE ® mang đến cho đối tác và cộng đồng.
+Chúng tôi tập trung triển khai dự án thật cho khách hàng thật, giải quyết bài toán thật. Từ nghiên cứu mô hình, xây dựng hệ thống đến vận hành ở quy mô production, đó là năng lực cốt lõi mà CODE4LIFE ® mang đến cho đối tác và cộng đồng.
 
 CODE4LIFE ® trực tiếp nghiên cứu và phát triển các mô hình AI, xây dựng sản phẩm phần mềm và triển khai giải pháp cho đối tác doanh nghiệp cũng như cộng đồng mã nguồn mở. Toàn bộ mô hình và dự án được chúng tôi công khai chia sẻ, đóng góp trở lại cho hệ sinh thái công nghệ.
 
