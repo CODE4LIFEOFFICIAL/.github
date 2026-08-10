@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://github.com/CODE4LIFEOFFICIAL"><img src="https://cdn-avatars.huggingface.co/v1/production/uploads/6827f87ca7a9cf88b709943e/yrudEt31cB0H6XWLN7KKi.jpeg" width="360" height="360"></a>
+<a href="https://github.com/CODE4LIFEOFFICIAL"><img src="https://github.com/CODE4LIFEOFFICIAL/.github/blob/main/profile/LOGO.png" width="360" height="360"></a>
 
 ## CODE4LIFE ® Company
 </div>
